@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1672344359 source:c:\users\denis\documents\codeblocks projects\tema 2 - csv files\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+

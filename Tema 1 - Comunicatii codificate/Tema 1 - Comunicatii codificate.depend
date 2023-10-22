@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670076458 source:c:\users\denis\documents\codeblocks projects\tema 1 - comunicatii codificate\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+
